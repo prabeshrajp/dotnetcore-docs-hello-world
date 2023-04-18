@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'myglapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6184E00AC9EA4CFEB26C03942580FE28 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F89408FF434B4B25B31108E36D2AC98D }}
           package: .
